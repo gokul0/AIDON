@@ -1,6 +1,6 @@
 # AIDON
 
-This is a proof-of-concept for the IBM call for code hackathon.
+This is a proof-of-concept for the IBM call for code hackathon 2019.
 
 ## Idea
  - Use of climatic data to predict rains and floods.
